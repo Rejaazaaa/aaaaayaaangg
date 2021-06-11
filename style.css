@@ -6,7 +6,7 @@
   
   .modal {
     width: 60%;
-    height: 600px;
+    height: 1100px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -48,7 +48,7 @@
   }
   .container {
     width: 100vw;
-    min-height: 150vh;
+    min-height: 250vh;
     background: rgb(255, 142, 142);
     display: flex;
     align-items: center;
